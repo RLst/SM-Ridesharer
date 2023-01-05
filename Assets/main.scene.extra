@@ -82,15 +82,15 @@
     "extraType": "Transform",
     "name": "Transform",
     "eulerAngle": [
-      0,
-      0,
-      0
+      299.9999694824219,
+      269.99993896484375,
+      0.000020490573660936207
     ],
     "rotation": [
-      0,
-      0,
-      0,
-      1
+      -0.3535534143447876,
+      -0.6123725175857544,
+      -0.3535534143447876,
+      0.6123722791671753
     ],
     "rttiType": "Transform",
     "version": "0.1.0",
@@ -116,5 +116,200 @@
     "expanded": true,
     "editable": true,
     "shadowAdvanceExpanded": false
+  },
+  {
+    "guid": {
+      "a": "5b35db0b-52a0-f855-61eb-5db3af833ab9",
+      "b": ""
+    },
+    "objGuid": "Guid(11407097476738735249, 10392135420930880662)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "uniqueSign": "Camera2D"
+  },
+  {
+    "guid": {
+      "a": "76479c6e-c016-c206-d762-8d1a86d10d52",
+      "b": ""
+    },
+    "objGuid": "Guid(2181797359062329320, 2155571675733943700)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "10dcc597-8d1e-a5e2-c4b4-9fc3c58305b0",
+      "b": ""
+    },
+    "objGuid": "Guid(957304126560934515, 2234138549677500090)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_camera",
+    "expanded": true,
+    "editable": true,
+    "usage": "2D"
+  },
+  {
+    "guid": {
+      "a": "804a2677-d2d1-5314-f8d0-a6284895b4e4",
+      "b": ""
+    },
+    "objGuid": "Guid(3982166551423900291, 17742014202712370566)",
+    "extraType": "Entity",
+    "name": "Canvas",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "40daec3a-4815-3ab3-7371-91810bade97c",
+      "b": ""
+    },
+    "objGuid": "Guid(3045859791467017578, 9416053055839150494)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "7469c032-af22-b3eb-1195-c8f9ee181321",
+      "b": ""
+    },
+    "objGuid": "Guid(9604329865741157137, 10836527261761362610)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "b6e2614f-97f3-6985-4fe4-18a9796becad",
+      "b": ""
+    },
+    "objGuid": "Guid(16449259814191820608, 12347720298037028995)",
+    "extraType": "IFLayer2d",
+    "name": "Canvas",
+    "rttiType": "IFLayer2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_canvas",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "19367758-1d8e-0b6d-4e08-615e441f503c",
+      "b": ""
+    },
+    "objGuid": "Guid(11692362780687330340, 15190919931930757300)",
+    "extraType": "IFCanvas2d",
+    "name": "Canvas Scaler",
+    "rttiType": "IFCanvas2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_canvasscaler",
+    "expanded": true,
+    "editable": true,
+    "scaleFactor": "Screen Size"
+  },
+  {
+    "guid": {
+      "a": "570332ba-c08f-a6e8-e770-34d9a11e8434",
+      "b": ""
+    },
+    "objGuid": "Guid(6363255071644798399, 12847158465059407773)",
+    "extraType": "Entity",
+    "name": "Image",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "cc0a5edc-4ca6-4f84-fb2e-fbd7e34a489e",
+      "b": ""
+    },
+    "objGuid": "Guid(16666846010075727623, 10498984481389659566)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
   }
 ]
