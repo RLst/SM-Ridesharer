@@ -248,6 +248,87 @@
   },
   {
     "guid": {
+      "a": "569c68f4-2953-d935-ef44-ae9e9c810cd5",
+      "b": ""
+    },
+    "objGuid": "Guid(17313604809489160166, 10750903233920147604)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "e8d5bd01-d1c8-3816-f498-c4602d03489e",
+      "b": ""
+    },
+    "objGuid": "Guid(15008861053146663779, 5454926346542618242)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "4d145c1c-0b12-6b4a-76f7-da64f385b626",
+      "b": ""
+    },
+    "objGuid": "Guid(8232785825151098230, 15892958222826761629)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "b6e2614f-97f3-6985-4fe4-18a9796becad",
       "b": ""
     },
@@ -281,12 +362,45 @@
   },
   {
     "guid": {
+      "a": "70d21c7e-00eb-7457-201e-76774a674152",
+      "b": ""
+    },
+    "objGuid": "Guid(16017956454390428327, 11977557009400574615)",
+    "extraType": "Entity",
+    "name": "Bike Collider",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "bca563f6-87cd-65ba-5f65-0498c992ba9d",
+      "b": ""
+    },
+    "objGuid": "Guid(15729191812922726556, 10508956121740939139)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
       "a": "570332ba-c08f-a6e8-e770-34d9a11e8434",
       "b": ""
     },
     "objGuid": "Guid(6363255071644798399, 12847158465059407773)",
     "extraType": "Entity",
-    "name": "Image",
+    "name": "Helmet",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -310,6 +424,72 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "00000000-0000-0000-0000-00000000003e"
+    "texture": "3095a1a5-a33d-4cbe-f3d1-b628e6a31f4f"
+  },
+  {
+    "guid": {
+      "a": "f835d0fb-1ac6-d05f-af35-d89947c91912",
+      "b": ""
+    },
+    "objGuid": "Guid(1678217427976708214, 18038338432777670060)",
+    "extraType": "Entity",
+    "name": "Bike",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "fc910891-04da-104a-562b-cf93b0f7afab",
+      "b": ""
+    },
+    "objGuid": "Guid(11188571848060918322, 3734936939119950754)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "5d57aa0a-7339-572f-8348-354c5c777ff3"
+  },
+  {
+    "guid": {
+      "a": "4b839aeb-d8c1-34a8-4f90-da0c87f2954a",
+      "b": ""
+    },
+    "objGuid": "Guid(2686754711937840060, 16023708444742085522)",
+    "extraType": "Entity",
+    "name": "Head Segment",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "820bb607-db4c-d23d-4d31-5be2d0e2f5c5",
+      "b": ""
+    },
+    "objGuid": "Guid(13060688308582801742, 9593530026247226005)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "5ffe534b-8a63-168f-fd22-3ba439634625"
   }
 ]

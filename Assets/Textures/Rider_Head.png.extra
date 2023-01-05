@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3095a1a5-a33d-4cbe-f3d1-b628e6a31f4f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Rider_Head",
+    "objGuid": "Guid(8019888477146809716, 12502201375050951348)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
