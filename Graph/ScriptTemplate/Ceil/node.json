@@ -1,0 +1,39 @@
+{
+	"name": "Ceil",
+	"id": "ef3a3cfe-e98b-e941-8346-a38b27e99a5c",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"item_type": "",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The value to round up",
+			"displayType": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"type": "Int",
+			"item_type": "",
+			"dynamic": true,
+			"description": "The value rounded up",
+			"displayType": "Number"
+		}
+	],
+	"lua": "CGCeil.lua",
+	"js": "CGCeil.js",
+	"version": "1.0.1",
+	"luaFuncName": "CGCeil",
+	"category": "Math",
+	"description": "Round up the input value. It is first integer greater or equal to the input.",
+	"supportedValueTypes": [
+		"Double"
+	],
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	]
+}

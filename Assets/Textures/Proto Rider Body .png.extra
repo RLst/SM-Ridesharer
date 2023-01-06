@@ -5,8 +5,8 @@
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Rider_Body",
-    "objGuid": "Guid(526740291209355110, 7955840272671612055)",
+    "name": "Proto Rider Body ",
+    "objGuid": "Guid(17890668963102420932, 2532064442189778611)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

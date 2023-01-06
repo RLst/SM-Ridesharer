@@ -1,0 +1,29 @@
+{
+	"name": "Get Time",
+	"id": "47f8c991-21f4-f918-b612-d32166adbbd0",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Time in Seconds",
+			"type": "Double",
+			"item_type": "",
+			"description": "The number of seconds elapsed since the effect started",
+			"displayType": "Number"
+		},
+		{
+			"name": "Delta Time",
+			"description": "The number of seconds elapsed since last frame",
+			"type": "Double",
+			"displayType": "Number"
+		}
+	],
+	"js": "CGGetTime.js",
+	"version": "3.0.0",
+	"category": "Time",
+	"nodeEvent": "onUpdate",
+	"description": "Get the total time since the effect started and the time difference since last frame. ",
+	"productTypes": [
+		"TTEH"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Time/Get-Time"
+}
