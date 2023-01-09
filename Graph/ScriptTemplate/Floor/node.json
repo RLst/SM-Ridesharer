@@ -1,33 +1,32 @@
 {
-	"name": "Round",
-	"id": "4bba441f-078a-ad53-baec-c0a5a153ae99",
+	"name": "Floor",
+	"id": "ef9a8324-fbb3-fac2-efd4-1e5590fc8176",
 	"inputs": [
 		{
 			"name": "A",
 			"type": "Double",
 			"item_type": "",
 			"default_value": "0",
-			"dynamic": true,
-			"description": "The value to round",
+			"description": "The value to round down",
 			"displayType": "Number"
 		}
 	],
 	"outputs": [
 		{
 			"name": "Result",
-			"type": "Double",
+			"type": "Int",
 			"item_type": "",
-			"dynamic": true,
-			"description": "The rounded value of the input",
+			"description": "The value rounded down",
 			"displayType": "Number"
 		}
 	],
-	"lua": "CGRound.lua",
-	"js": "CGRound.js",
+	"lua": "CGFloor.lua",
+	"js": "CGFloor.js",
 	"version": "1.0.1",
-	"luaFuncName": "CGRound",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGFloor",
 	"category": "Math",
-	"description": "Round the input value to the nearest integer.",
+	"description": "Round down the input value. It is first integer smaller or equal to the input.",
 	"supportedValueTypes": [
 		"Double"
 	],

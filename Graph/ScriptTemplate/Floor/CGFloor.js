@@ -1,15 +1,15 @@
 /**
- * @file CGRound.js
+ * @file CGFloor.js
  * @author liujiacheng
  * @date 2021/8/23
- * @brief CGRound.js
+ * @brief CGFloor.js
  * @copyright Copyright (c) 2021, ByteDance Inc, All Rights Reserved
  */
 
 const {BaseNode} = require('./BaseNode');
 const Amaz = effect.Amaz;
 
-class CGRound extends BaseNode {
+class CGFloor extends BaseNode {
   constructor() {
     super();
   }
@@ -23,8 +23,8 @@ class CGRound extends BaseNode {
   }
 
   getOutput() {
-    return Math.floor(this.inputs[0]() + 0.5);
+    return Math.floor(this.inputs[0]());
   }
 }
 
-exports.CGRound = CGRound;
+exports.CGFloor = CGFloor;
