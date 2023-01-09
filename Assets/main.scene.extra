@@ -1365,7 +1365,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1374,39 +1374,6 @@
       "b": ""
     },
     "objGuid": "Guid(8811662729128076214, 10474486672488600207)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": false,
-    "texture": "00000000-0000-0000-0000-00000000003e"
-  },
-  {
-    "guid": {
-      "a": "37e45d9e-29f8-a66d-6ab2-6ab1db1c8755",
-      "b": ""
-    },
-    "objGuid": "Guid(8091864112895770294, 11151759169803950473)",
-    "extraType": "Entity",
-    "name": "FarObs2",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": false,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "5fc3b88d-28c1-7fa1-fc8b-2cb62ef12ce1",
-      "b": ""
-    },
-    "objGuid": "Guid(9461883694513761742, 4258684438669637811)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -1431,7 +1398,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1516,39 +1483,6 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000003e"
-  },
-  {
-    "guid": {
-      "a": "6b82d840-16f2-53cc-42fb-78d3d77a37dc",
-      "b": ""
-    },
-    "objGuid": "Guid(6937280312051689766, 18212437883567488138)",
-    "extraType": "Entity",
-    "name": "Texture",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "cecd8bb3-7688-c009-9346-2243ae797f96",
-      "b": ""
-    },
-    "objGuid": "Guid(18321699243597787076, 12033150213677635205)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": false,
     "texture": "00000000-0000-0000-0000-00000000003e"
   },
   {
@@ -1770,6 +1704,72 @@
       "b": ""
     },
     "objGuid": "Guid(11764013914190841045, 5964142362565618064)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "37e45d9e-29f8-a66d-6ab2-6ab1db1c8755",
+      "b": ""
+    },
+    "objGuid": "Guid(8091864112895770294, 11151759169803950473)",
+    "extraType": "Entity",
+    "name": "FarObs2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "5fc3b88d-28c1-7fa1-fc8b-2cb62ef12ce1",
+      "b": ""
+    },
+    "objGuid": "Guid(9461883694513761742, 4258684438669637811)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "6b82d840-16f2-53cc-42fb-78d3d77a37dc",
+      "b": ""
+    },
+    "objGuid": "Guid(6937280312051689766, 18212437883567488138)",
+    "extraType": "Entity",
+    "name": "Texture",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "cecd8bb3-7688-c009-9346-2243ae797f96",
+      "b": ""
+    },
+    "objGuid": "Guid(18321699243597787076, 12033150213677635205)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",

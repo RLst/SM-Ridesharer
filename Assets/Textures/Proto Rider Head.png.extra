@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Proto Rider Head",
-    "objGuid": "Guid(11910847871302465190, 8845631789976356768)",
+    "objGuid": "Guid(5119311308925823720, 4878232285628138151)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
