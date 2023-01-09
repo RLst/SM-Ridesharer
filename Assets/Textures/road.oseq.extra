@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "a51505c7-71cc-4292-7ef9-acccbf9e65df",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "road",
+    "objGuid": "Guid(5555693925117666758, 17696021543431792282)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]
