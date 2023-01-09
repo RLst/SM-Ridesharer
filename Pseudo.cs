@@ -17,6 +17,9 @@ bool spawn4 = false;
 
 float spawnDuration = 1f;
 
+bool isGameStarted = false;
+bool isPlaying = false;
+
 void Update()
 {
 	HandleObstacleSpawning();
@@ -87,4 +90,60 @@ void HandleObjectDespawn()
 			SetVisibility(o, false);
 		}
 	}
+}
+
+
+
+//GAME STATES
+//Game ready
+isPlaying = false;
+isGameStarted = false;
+
+//Game start
+isPlaying = true
+isGameStarted = true;
+
+//Game end
+isPlaying = false;
+isGameStarted = true;
+
+//Game reset
+isPlaying = false;
+isGameStarted = false;
+
+/// Gameloop
+float timeSinceLastRespawn = 0;
+
+
+void Start()
+{
+	ResetGame();
+}
+
+void ResetGame()
+{
+	gameSpeed = 0;
+	timeSinceLastRespawn = 0;
+	isPlaying = false;
+	isGameStarted = false;
+}
+
+public void StartGame()
+{
+	isPlaying = true;
+	isGameStarted = true;
+}
+
+void Update()
+{
+	if (!isPlaying)
+		return;
+
+	
+}
+
+public void EndGame()
+{
+	ShowDeathSequence();
+	ShowScore();
 }

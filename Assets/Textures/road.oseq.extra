@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "road",
-    "objGuid": "Guid(5555693925117666758, 17696021543431792282)",
+    "objGuid": "Guid(5188567273257876472, 18078912072456106155)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
