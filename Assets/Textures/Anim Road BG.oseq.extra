@@ -5,7 +5,7 @@
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "road",
+    "name": "Anim Road BG",
     "objGuid": "Guid(17818339874673174087, 780393347688402863)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",

@@ -453,6 +453,33 @@
   },
   {
     "guid": {
+      "a": "8fd7a9cd-acbc-2fdd-3a46-3ccbe8f7761d",
+      "b": ""
+    },
+    "objGuid": "Guid(9387389317962448696, 2145751368517190070)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "7469c032-af22-b3eb-1195-c8f9ee181321",
       "b": ""
     },
@@ -511,6 +538,33 @@
       "b": ""
     },
     "objGuid": "Guid(15008861053146663779, 5454926346542618242)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "1e540792-d77d-3141-7af1-65dde7becf8e",
+      "b": ""
+    },
+    "objGuid": "Guid(4269510923723594270, 6879827034042610595)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1415,6 +1469,72 @@
       "b": ""
     },
     "objGuid": "Guid(4975721706541946582, 11049246577662810241)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "d1e3b7a5-58fa-4f1d-48bd-dfde06860b1f",
+      "b": ""
+    },
+    "objGuid": "Guid(5711982027902693521, 17731033162906347659)",
+    "extraType": "Entity",
+    "name": "Explosion",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "0268d904-dcb9-10f0-9e3c-22496597bfd1",
+      "b": ""
+    },
+    "objGuid": "Guid(2110655612836138042, 707026073734786743)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "b97cfc69-b3d4-2d15-7b5c-33ae41423500"
+  },
+  {
+    "guid": {
+      "a": "980cf5a1-abc2-abef-f26c-60ca8780f9ad",
+      "b": ""
+    },
+    "objGuid": "Guid(10109210568366188148, 17831622714348189621)",
+    "extraType": "Entity",
+    "name": "End Game",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "1c821b88-cfd8-809c-7433-51293b11a1be",
+      "b": ""
+    },
+    "objGuid": "Guid(12125156361546303274, 15277682125732567998)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",

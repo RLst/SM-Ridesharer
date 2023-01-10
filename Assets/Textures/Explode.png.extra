@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "b97cfc69-b3d4-2d15-7b5c-33ae41423500",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Explode",
+    "objGuid": "Guid(13061680974225374367, 4090580988077176193)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
