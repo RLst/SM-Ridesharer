@@ -167,7 +167,7 @@ entities:
         resolutionSize: {x: 720, y: 1280}
     layer: 0
   - __class: Entity
-    name: BG
+    name: Road BG
     guid: {a: 4882521825823192018, b: 8138144829298508192}
     scene: {localId: 1}
     selfvisible: true
@@ -1261,7 +1261,7 @@ config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: NONE
+  value: _4X
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js

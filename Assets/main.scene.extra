@@ -842,7 +842,7 @@
     },
     "objGuid": "Guid(4882521825823192018, 8138144829298508192)",
     "extraType": "Entity",
-    "name": "BG",
+    "name": "Road BG",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
