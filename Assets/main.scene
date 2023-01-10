@@ -189,8 +189,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/a51505c7-71cc-4292-7ef9-acccbf9e65df/1.png}
-        imageAtlas: {localId: 1, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--1.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/a51505c7-71cc-4292-7ef9-acccbf9e65df/0.png}
+        imageAtlas: {localId: 1, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -221,7 +221,7 @@ entities:
         name: ""
         guid: {a: 4898691151481999278, b: 16821158152479932326}
         enabled: true
-        animSeq: {localId: 3, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--a51505c7-71cc-4292-7ef9-acccbf9e65df.seq}
+        animSeq: {localId: 1, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--a51505c7-71cc-4292-7ef9-acccbf9e65df.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -234,7 +234,7 @@ entities:
         autoplay: true
         animSeqMap:
           __class: Map
-          road: {localId: 3, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--a51505c7-71cc-4292-7ef9-acccbf9e65df.seq}
+          road: {localId: 1, path: a51505c7-71cc-4292-7ef9-acccbf9e65df--a51505c7-71cc-4292-7ef9-acccbf9e65df.seq}
     layer: 1
   - __class: Entity
     name: Bike Collider
@@ -1159,7 +1159,7 @@ config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: _4X
+  value: NONE
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js
@@ -1167,16 +1167,6 @@ jsScriptSystems:
 enableMultiTouch: false
 enableLightMultiPass: false
 pixelLightCount: 4
---- !Transform &2
-name: ""
-guid: {a: 1029434961439008335, b: 6372224128272086966}
-enabled: true
-localPosition: {x: 0, y: 0, z: 40}
-localScale: {x: 1, y: 1, z: 1}
-localOrientation: {w: 1, x: 0, y: 0, z: 0}
-mobility:
-  __class: Mobility
-  value: Dynamic
 --- !Transform &3
 name: ""
 guid: {a: 10827949423485651365, b: 543587625606924957}
@@ -1399,7 +1389,7 @@ mobility:
 position: {x: 0, y: 289}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 144, y: 144}
+size: {x: 155, y: 155}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
