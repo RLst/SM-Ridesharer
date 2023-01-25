@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "b97cfc69-b3d4-2d15-7b5c-33ae41423500",
+      "a": "40fd01aa-6c40-91ad-dc91-3fa5f59f40fb",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "explode",
-    "objGuid": "Guid(12848555893645451239, 234799874631789966)",
+    "name": "rider_helmet",
+    "objGuid": "Guid(12416168313572753668, 13720779099550777278)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

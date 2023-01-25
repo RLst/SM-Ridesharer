@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "5d57aa0a-7339-572f-8348-354c5c777ff3",
+      "a": "70bcec62-5704-6583-8c25-73dc82475df5",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Proto Rider Body ",
-    "objGuid": "Guid(9604050145598506885, 13030563349399033482)",
+    "name": "roadbase",
+    "objGuid": "Guid(5351563475288192906, 1828024221365596297)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "a51505c7-71cc-4292-7ef9-acccbf9e65df",
+      "a": "b35f2224-abaa-47aa-0959-bcdc11f676e0",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "Anim Road BG",
-    "objGuid": "Guid(17818339874673174087, 780393347688402863)",
+    "name": "numbers",
+    "objGuid": "Guid(10612639047767168515, 16269742997700107151)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512
   }
 ]

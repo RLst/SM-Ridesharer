@@ -5,8 +5,8 @@
       "b": ""
     },
     "extraType": "ResItemSegmentationAsset",
-    "name": "Head Segmentation Texture",
-    "objGuid": "Guid(15006431848856001911, 1638194439026979208)",
+    "name": "head segmentation",
+    "objGuid": "Guid(10251269436798477976, 13476505774506137262)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

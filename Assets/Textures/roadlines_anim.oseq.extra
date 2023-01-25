@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1cbbc7ec-0534-16e8-0119-774b2a7b1127",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "roadlines_anim",
+    "objGuid": "Guid(6937425853355320131, 9955547534857576837)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

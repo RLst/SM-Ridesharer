@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "3095a1a5-a33d-4cbe-f3d1-b628e6a31f4f",
+      "a": "77d7e413-284a-f470-1042-a1046c9c31a2",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Proto Rider Head",
-    "objGuid": "Guid(12414877496163254218, 2118057937779136428)",
+    "name": "shipper_body",
+    "objGuid": "Guid(3119265570509764215, 18349743621375509904)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "b97cfc69-b3d4-2d15-7b5c-33ae41423500",
+      "a": "6f6327ad-92a5-6452-ba3f-20e32e551973",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "explode",
-    "objGuid": "Guid(12848555893645451239, 234799874631789966)",
+    "name": "shipper_helmet",
+    "objGuid": "Guid(16951603124024178772, 13420921257142410937)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

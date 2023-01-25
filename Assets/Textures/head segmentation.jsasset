@@ -1,0 +1,1 @@
+{"uuid":"50e9ae16-ba86-80d0-2911-16fc6a1a65db","type":"texture","subType":"segmentation","rtti":"RenderTexture","properties":{"segmentationType":"head","invert":false,"smoothness":0.75,"useCutoutTexture":true,"cutoutTexture":"custom://Default_Camera_Input","cutoutGuid":{"_default":{"a":"00000000-0000-0000-0000-00000000004b","b":""}}},"path":"Textures/head segmentation.jsasset"}

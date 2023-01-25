@@ -84,6 +84,7 @@
 			"name": "Ping-pong",
 			"description": "Select it to make the transition changing from the start value to the end value, then changing backward",
 			"type": "Bool",
+			"default_value": false,
 			"displayType": "Boolean"
 		}
 	],
@@ -131,6 +132,6 @@
 		"Vector4f",
 		"Color"
 	],
-	"version": "3.0.0",
+	"version": "3.1.0",
 	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Utility/Transit-by-Time"
 }
