@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "rider_helmet",
-    "objGuid": "Guid(12416168313572753668, 13720779099550777278)",
+    "objGuid": "Guid(10826996929543388183, 17065066634333666493)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
