@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "2710e41f-b46e-f238-9f8f-995cb3d97992",
+      "a": "77d7e413-284a-f470-1042-a1046c9c31a2",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "topright",
-    "objGuid": "Guid(11838021155001817297, 4595019013665978301)",
+    "name": "shipper body",
+    "objGuid": "Guid(18033672052875631251, 17250843199821734322)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

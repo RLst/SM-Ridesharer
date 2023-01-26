@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "40fd01aa-6c40-91ad-dc91-3fa5f59f40fb",
+      "a": "7aa9ff47-a4fe-2c8d-1ca2-18252d7b2af7",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "rider_helmet",
-    "objGuid": "Guid(14647600658988507866, 4424578248375463815)",
+    "name": "ui top",
+    "objGuid": "Guid(4701927302176771100, 18180682137691683201)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

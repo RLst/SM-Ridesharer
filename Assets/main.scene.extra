@@ -1592,7 +1592,7 @@
     },
     "objGuid": "Guid(4882521825823192018, 8138144829298508192)",
     "extraType": "Entity",
-    "name": "Road",
+    "name": "BG",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1616,7 +1616,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "dd820a4f-28f3-8ae8-4127-ad000228138e"
+    "texture": "dcf7523d-3dc7-a125-f7a3-327ee9d6b6f2"
   },
   {
     "guid": {
@@ -1696,7 +1696,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2210,7 +2210,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "57ccb1fe-b4f3-9f3b-45d3-c4ca24a620c3"
+    "texture": "0e2e5d1b-f9c0-29f1-7433-d184c25cadd6"
   },
   {
     "guid": {
@@ -2271,7 +2271,7 @@
     },
     "objGuid": "Guid(10109210568366188148, 17831622714348189621)",
     "extraType": "Entity",
-    "name": "End Game",
+    "name": "Reset Game",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2295,7 +2295,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "bbba2b92-b92b-8592-bb58-f2098cf67dfe"
+    "texture": "4da5ebe3-acca-f46a-d0c7-c5622c7e9168"
   },
   {
     "guid": {
@@ -2380,7 +2380,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "00000000-0000-0000-0000-000000000021"
   },
   {
     "guid": {
@@ -2706,7 +2706,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "2710e41f-b46e-f238-9f8f-995cb3d97992"
+    "texture": "7aa9ff47-a4fe-2c8d-1ca2-18252d7b2af7"
   },
   {
     "guid": {
@@ -2739,7 +2739,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "4dbc1c87-5968-21bc-ddb5-5955a2cba438"
+    "texture": "e48aad66-b48e-a399-5aa6-0d29b43686f6"
   },
   {
     "guid": {
@@ -3254,7 +3254,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   }
 ]

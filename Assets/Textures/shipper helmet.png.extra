@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "57ccb1fe-b4f3-9f3b-45d3-c4ca24a620c3",
+      "a": "6f6327ad-92a5-6452-ba3f-20e32e551973",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "start game",
-    "objGuid": "Guid(453143754132428019, 8541734284702455202)",
+    "name": "shipper helmet",
+    "objGuid": "Guid(1966588620875848478, 8295590067316455596)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 256,
+    "maxResolution": 128,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,

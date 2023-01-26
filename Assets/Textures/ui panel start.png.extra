@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "77d7e413-284a-f470-1042-a1046c9c31a2",
+      "a": "0e2e5d1b-f9c0-29f1-7433-d184c25cadd6",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "shipper_body",
-    "objGuid": "Guid(18033672052875631251, 17250843199821734322)",
+    "name": "ui panel start",
+    "objGuid": "Guid(5998823241054752944, 5815404659230809278)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

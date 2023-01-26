@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "bbba2b92-b92b-8592-bb58-f2098cf67dfe",
+      "a": "4da5ebe3-acca-f46a-d0c7-c5622c7e9168",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "reset game",
-    "objGuid": "Guid(8884226631749806559, 14239796144273166999)",
+    "name": "ui panel reset",
+    "objGuid": "Guid(4705156822732877115, 9480233332295031742)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
