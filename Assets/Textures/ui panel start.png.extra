@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "ui panel start",
-    "objGuid": "Guid(5998823241054752944, 5815404659230809278)",
+    "objGuid": "Guid(5136045745622303225, 7686243634379228318)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

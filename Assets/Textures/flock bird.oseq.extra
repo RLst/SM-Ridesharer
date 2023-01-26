@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "5167130e-9c33-47c8-2d2c-3a07fe32549a",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "flock bird",
+    "objGuid": "Guid(3766665029104686627, 5356413014027786655)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]
