@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "shipper_body",
-    "objGuid": "Guid(15366359324957638271, 830541560788704128)",
+    "objGuid": "Guid(6217578540423570486, 2619446780900438931)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

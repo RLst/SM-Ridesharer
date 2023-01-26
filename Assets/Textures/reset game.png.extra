@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "reset game",
-    "objGuid": "Guid(18324100623668875609, 1539087068110263707)",
+    "objGuid": "Guid(15368986086653607620, 13493435694042314912)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

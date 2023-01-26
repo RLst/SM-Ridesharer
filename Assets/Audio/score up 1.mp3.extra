@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "a8e78b45-138f-5529-b962-4dbc340524ca",
+      "a": "d8b9746c-83a7-c9a6-e267-44536d63358a",
       "b": ""
     },
     "extraType": "ResItemMP3",
-    "name": "start",
-    "objGuid": "Guid(3909401366882148957, 16425137689612859019)",
+    "name": "score up 1",
+    "objGuid": "Guid(16882608905136100734, 14354061881854457768)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
