@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "cruising3",
-    "objGuid": "Guid(3046216588699347120, 2419753906428440504)",
+    "objGuid": "Guid(14069693378358386942, 1401694674769474219)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

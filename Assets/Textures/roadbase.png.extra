@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "roadbase",
-    "objGuid": "Guid(11043970252038657836, 8274516699328125568)",
+    "objGuid": "Guid(7947143087854655781, 9265062588852755358)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

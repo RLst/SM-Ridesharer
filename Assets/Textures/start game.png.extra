@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "start game",
-    "objGuid": "Guid(18176733547304327131, 3915070428303317893)",
+    "objGuid": "Guid(453143754132428019, 8541734284702455202)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

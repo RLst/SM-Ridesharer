@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "shipper_helmet",
-    "objGuid": "Guid(9388641433770980823, 13207517883671215550)",
+    "objGuid": "Guid(1966588620875848478, 8295590067316455596)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "light",
-    "objGuid": "Guid(8954988603827233000, 2124495292310589098)",
+    "objGuid": "Guid(17672265599121486868, 10659135442888330418)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

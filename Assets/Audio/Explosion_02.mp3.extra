@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "28c35948-5211-37b6-f116-22001dd0af41",
+      "a": "956a08d9-8316-d10f-9966-c0e35c2c3ce4",
       "b": ""
     },
     "extraType": "ResItemMP3",
-    "name": "crash",
-    "objGuid": "Guid(12053692217524380755, 2451382055713563780)",
+    "name": "Explosion_02",
+    "objGuid": "Guid(19308182241023830, 7275847787714733460)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
