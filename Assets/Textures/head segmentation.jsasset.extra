@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemSegmentationAsset",
     "name": "head segmentation",
-    "objGuid": "Guid(15944205197553404134, 14674726422987746437)",
+    "objGuid": "Guid(3191782844306368329, 6079173999026429597)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

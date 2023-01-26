@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "obstacle-1",
-    "objGuid": "Guid(15294730330676304917, 3435451099641442476)",
+    "objGuid": "Guid(13567431531617759492, 4898041622638947489)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

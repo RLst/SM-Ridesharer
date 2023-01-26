@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "score up 1",
-    "objGuid": "Guid(9315004950592886782, 6963309366366308501)",
+    "objGuid": "Guid(4054762952371502682, 2943856517245281692)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

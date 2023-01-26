@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fx explode",
-    "objGuid": "Guid(5787020055829074657, 17540322179478409621)",
+    "objGuid": "Guid(15222356127002243475, 12096309147169598087)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

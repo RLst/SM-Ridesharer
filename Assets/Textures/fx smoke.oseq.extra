@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fx smoke",
-    "objGuid": "Guid(15658531525618288765, 11760118012211790727)",
+    "objGuid": "Guid(8016550825344057003, 864749540220885182)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fx spark-2",
-    "objGuid": "Guid(17674523388488813896, 8035719083760342403)",
+    "objGuid": "Guid(11695430705627125047, 6832178909731859634)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

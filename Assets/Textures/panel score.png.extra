@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "panel score",
-    "objGuid": "Guid(16665329911080631483, 16133400066879279524)",
+    "objGuid": "Guid(164517817968296264, 16050768494362519963)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
