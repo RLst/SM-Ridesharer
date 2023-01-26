@@ -1960,7 +1960,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1993,7 +1993,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2078,7 +2078,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "b7cd1587-0df1-76e3-6dcf-c68d24de6797"
+    "texture": "394b5ab5-0256-1927-76d3-773112867185"
   },
   {
     "guid": {
@@ -2125,7 +2125,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2177,7 +2177,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "9d683123-30b1-dfff-b3b2-5bd23062a279"
+    "texture": "9b6d51be-511b-b2a9-edb3-8e50d1a3b5d9"
   },
   {
     "guid": {
@@ -2956,7 +2956,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

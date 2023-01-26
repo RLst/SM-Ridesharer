@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "140b533e-911a-4a92-3e0e-db6774a43802",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "cruising4",
+    "objGuid": "Guid(2758349127686234913, 5833081566637195450)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
