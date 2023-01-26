@@ -1,6 +1,6 @@
 {
   "name": "Thử Thách Shipper",
-  "lastModified": "Thu, 26 Jan 2023 13:45:39 GMT",
+  "lastModified": "Thu, 26 Jan 2023 15:24:41 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1925524642,
-  "durationCreation": 365245026,
-  "durationBackground": 232343501,
+  "durationToCreate": 1931466906,
+  "durationCreation": 371187290,
+  "durationBackground": 237200992,
   "effectHint": "",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,
