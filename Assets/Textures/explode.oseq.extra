@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "b35f2224-abaa-47aa-0959-bcdc11f676e0",
+      "a": "361380d5-d3a3-01bc-83b8-f234d8ec60e9",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "numbers",
-    "objGuid": "Guid(10612639047767168515, 16269742997700107151)",
+    "name": "explode",
+    "objGuid": "Guid(17313270356292076330, 11006203942737089201)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 128
+    "maxResolution": 512
   }
 ]

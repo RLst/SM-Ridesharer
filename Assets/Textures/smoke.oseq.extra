@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "2518e029-a391-d4dd-7d3b-c8cec364a279",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "smoke",
+    "objGuid": "Guid(11550593934070626000, 11093293203511317161)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

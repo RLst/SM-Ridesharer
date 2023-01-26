@@ -1,19 +1,19 @@
 [
   {
     "guid": {
-      "a": "b7cd1587-0df1-76e3-6dcf-c68d24de6797",
+      "a": "2710e41f-b46e-f238-9f8f-995cb3d97992",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "obstacle-2",
-    "objGuid": "Guid(11980051343619863875, 2068048798692631451)",
+    "name": "topright",
+    "objGuid": "Guid(1174358214808100677, 1500786219080665509)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
-    "maxResolution": 128,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
     "filterMag": 1,

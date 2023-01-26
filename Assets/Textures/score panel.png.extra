@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "826e11aa-f8ce-adba-e751-6c1d5133ca37",
+      "a": "4dbc1c87-5968-21bc-ddb5-5955a2cba438",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "Top",
-    "objGuid": "Guid(10250470349937906340, 2967995776075158406)",
+    "name": "score panel",
+    "objGuid": "Guid(9749775031469749556, 4599606665319066302)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
