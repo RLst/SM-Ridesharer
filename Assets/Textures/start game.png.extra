@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "57ccb1fe-b4f3-9f3b-45d3-c4ca24a620c3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "start game",
+    "objGuid": "Guid(5352694918478704163, 733141482063378094)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
