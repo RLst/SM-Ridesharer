@@ -1323,8 +1323,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/9.png}
-        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--9.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/2.png}
+        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--2.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1364,7 +1364,7 @@ entities:
           __class: PlayMode
           value: loop
         loopCount: -1
-        speed: 60
+        speed: 40
         autoplay: true
         animSeqMap:
           __class: Map
@@ -1947,8 +1947,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/01dbf243-1882-8507-3359-b678490fe172/16.png}
-        imageAtlas: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--16.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/01dbf243-1882-8507-3359-b678490fe172/20.png}
+        imageAtlas: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--20.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2962,7 +2962,7 @@ mobility:
 position: {x: 0, y: 20}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 35, y: 40}
+size: {x: 35, y: 50}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
