@@ -1,17 +1,17 @@
 [
   {
     "guid": {
-      "a": "5167130e-9c33-47c8-2d2c-3a07fe32549a",
+      "a": "982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "flock bird",
-    "objGuid": "Guid(3766665029104686627, 5356413014027786655)",
+    "name": "fx spark-1",
+    "objGuid": "Guid(380354794669555127, 16391975426622343557)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
+    "compressionType": 0,
     "quality": 0,
     "maxResolution": 512
   }

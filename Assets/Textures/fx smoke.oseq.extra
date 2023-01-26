@@ -1,17 +1,17 @@
 [
   {
     "guid": {
-      "a": "5167130e-9c33-47c8-2d2c-3a07fe32549a",
+      "a": "c6b25159-bd63-7c43-96be-b56da5d53c40",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "flock bird",
-    "objGuid": "Guid(3766665029104686627, 5356413014027786655)",
+    "name": "fx smoke",
+    "objGuid": "Guid(15658531525618288765, 11760118012211790727)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
+    "compressionType": 0,
     "quality": 0,
     "maxResolution": 512
   }

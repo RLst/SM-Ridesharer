@@ -149,7 +149,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 11
+        drawCallNum: 12
         maskType:
           __class: IFMaskType
           value: None
@@ -233,7 +233,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: f761d9ea-af76-9a44-34af-824c746016c7--f761d9ea-af76-9a44-34af-824c746016c7.png}
+        texture: {localId: 1, path: 985e905a-d36e-d866-2c13-c3a6de7715c7--985e905a-d36e-d866-2c13-c3a6de7715c7.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1180,7 +1180,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Explosion
+    name: Hit Explosion
     guid: {a: 5711982027902693521, b: 17731033162906347659}
     scene: {localId: 1}
     selfvisible: true
@@ -1202,8 +1202,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/361380d5-d3a3-01bc-83b8-f234d8ec60e9/24.png}
-        imageAtlas: {localId: 1, path: 361380d5-d3a3-01bc-83b8-f234d8ec60e9--24.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/819c32ed-1b77-d74b-1c39-dbe560c4f564/24.png}
+        imageAtlas: {localId: 2, path: 819c32ed-1b77-d74b-1c39-dbe560c4f564--24.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1234,7 +1234,7 @@ entities:
         name: ""
         guid: {a: 1101412817867110553, b: 12495753617690960792}
         enabled: true
-        animSeq: {localId: 5, path: 361380d5-d3a3-01bc-83b8-f234d8ec60e9--361380d5-d3a3-01bc-83b8-f234d8ec60e9.seq}
+        animSeq: {localId: 2, path: 819c32ed-1b77-d74b-1c39-dbe560c4f564--819c32ed-1b77-d74b-1c39-dbe560c4f564.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1243,11 +1243,11 @@ entities:
           __class: PlayMode
           value: once
         loopCount: -1
-        speed: 12
+        speed: 14
         autoplay: true
         animSeqMap:
           __class: Map
-          explode: {localId: 5, path: 361380d5-d3a3-01bc-83b8-f234d8ec60e9--361380d5-d3a3-01bc-83b8-f234d8ec60e9.seq}
+          explode: {localId: 2, path: 819c32ed-1b77-d74b-1c39-dbe560c4f564--819c32ed-1b77-d74b-1c39-dbe560c4f564.seq}
     layer: 1
   - __class: Entity
     name: Reset Game
@@ -1323,8 +1323,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/4.png}
-        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--4.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/11.png}
+        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--11.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1947,8 +1947,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/01dbf243-1882-8507-3359-b678490fe172/21.png}
-        imageAtlas: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/5.png}
+        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--5.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1979,7 +1979,7 @@ entities:
         name: ""
         guid: {a: 13929481911732394038, b: 6566744007911881126}
         enabled: true
-        animSeq: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--01dbf243-1882-8507-3359-b678490fe172.seq}
+        animSeq: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -1988,11 +1988,11 @@ entities:
           __class: PlayMode
           value: random
         loopCount: -1
-        speed: 12
+        speed: 8
         autoplay: true
         animSeqMap:
           __class: Map
-          spark: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--01dbf243-1882-8507-3359-b678490fe172.seq}
+          Spark-1: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1.seq}
     layer: 1
   - __class: Entity
     name: Smoke
@@ -2017,8 +2017,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/2518e029-a391-d4dd-7d3b-c8cec364a279/20.png}
-        imageAtlas: {localId: 1, path: 2518e029-a391-d4dd-7d3b-c8cec364a279--20.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/c6b25159-bd63-7c43-96be-b56da5d53c40/21.png}
+        imageAtlas: {localId: 1, path: c6b25159-bd63-7c43-96be-b56da5d53c40--21.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2049,7 +2049,7 @@ entities:
         name: ""
         guid: {a: 11835616212306169567, b: 17609180437925488768}
         enabled: true
-        animSeq: {localId: 1, path: 2518e029-a391-d4dd-7d3b-c8cec364a279--2518e029-a391-d4dd-7d3b-c8cec364a279.seq}
+        animSeq: {localId: 1, path: c6b25159-bd63-7c43-96be-b56da5d53c40--c6b25159-bd63-7c43-96be-b56da5d53c40.seq}
         texName: Albedo
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -2058,11 +2058,11 @@ entities:
           __class: PlayMode
           value: once
         loopCount: -1
-        speed: 12
+        speed: 20
         autoplay: true
         animSeqMap:
           __class: Map
-          smoke: {localId: 1, path: 2518e029-a391-d4dd-7d3b-c8cec364a279--2518e029-a391-d4dd-7d3b-c8cec364a279.seq}
+          smoke: {localId: 1, path: c6b25159-bd63-7c43-96be-b56da5d53c40--c6b25159-bd63-7c43-96be-b56da5d53c40.seq}
     layer: 1
   - __class: Entity
     name: Scenic Left Horizon
@@ -2583,75 +2583,6 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Spark (1)
-    guid: {a: 10106863347724360360, b: 17217889225732131214}
-    scene: {localId: 1}
-    selfvisible: false
-    components:
-      - {localId: 52}
-      - __class: IFSprite2d
-        name: ""
-        guid: {a: 7660432350424798159, b: 3627310670101007799}
-        enabled: true
-        alpha: 1
-        cascadeAlphaEnabled: false
-        type:
-          __class: IFSprite2dType
-          value: Normal
-        sizeMode:
-          __class: IFSprite2dSizeMode
-          value: Custom
-        colorTint: {r: 1, g: 1, b: 1, a: 1}
-        blendMode:
-          __class: IFBlendMode
-          value: Normal
-        texture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
-        atlasIndex: 0
-        filledType:
-          __class: IFFilledType
-          value: Horizontal
-        filledStartPos: 0
-        filledRange: 1
-        ellipseX: 336
-        ellipseY: 336
-        topLeftPoint: {x: 0, y: 0}
-        topRightPoint: {x: 0, y: 0}
-        bottomLeftPoint: {x: 0, y: 0}
-        bottomRightPoint: {x: 0, y: 0}
-        slicedLeft: 0.1000000014901161
-        slicedRight: 0.8999999761581421
-        slicedBottom: 0.1000000014901161
-        slicedTop: 0.8999999761581421
-        fillCenter: true
-        topLeft: 0.5
-        topRight: 0.5
-        bottomLeft: 0.5
-        bottomRight: 0.5
-        lineWidth: 1
-        lineColor: {r: 1, g: 1, b: 1, a: 1}
-        outer: false
-        sizeInited: true
-        freeInited: false
-      - __class: AnimSeqComponent
-        name: ""
-        guid: {a: 10254054370756781963, b: 1181580203433819831}
-        enabled: true
-        animSeq: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--01dbf243-1882-8507-3359-b678490fe172.seq}
-        texName: Albedo
-        frameName: _MainTex_ST
-        frameRotateName: _Atlas_Rotated
-        frameInnerName: _Atlas_InnerTex_ST
-        playmode:
-          __class: PlayMode
-          value: random
-        loopCount: -1
-        speed: 12
-        autoplay: true
-        animSeqMap:
-          __class: Map
-          spark: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--01dbf243-1882-8507-3359-b678490fe172.seq}
-    layer: 1
-  - __class: Entity
     name: Points
     guid: {a: 1462888759440744234, b: 4942401067955734944}
     scene: {localId: 1}
@@ -2830,6 +2761,76 @@ entities:
         outer: false
         sizeInited: true
         freeInited: false
+    layer: 1
+  - __class: Entity
+    name: Spark (1)
+    guid: {a: 16808347865255881111, b: 2639807601123728554}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 57}
+      - __class: IFSprite2d
+        name: ""
+        guid: {a: 7300284188638768531, b: 13132145509299283093}
+        enabled: true
+        alpha: 1
+        cascadeAlphaEnabled: false
+        type:
+          __class: IFSprite2dType
+          value: Normal
+        sizeMode:
+          __class: IFSprite2dSizeMode
+          value: Custom
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
+        blendMode:
+          __class: IFBlendMode
+          value: Normal
+        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/2.png}
+        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--2.imageatlas}
+        atlasIndex: 0
+        filledType:
+          __class: IFFilledType
+          value: Horizontal
+        filledStartPos: 0
+        filledRange: 1
+        ellipseX: 336
+        ellipseY: 336
+        topLeftPoint: {x: 0, y: 0}
+        topRightPoint: {x: 0, y: 0}
+        bottomLeftPoint: {x: 0, y: 0}
+        bottomRightPoint: {x: 0, y: 0}
+        slicedLeft: 0.1000000014901161
+        slicedRight: 0.8999999761581421
+        slicedBottom: 0.1000000014901161
+        slicedTop: 0.8999999761581421
+        fillCenter: true
+        topLeft: 0.5
+        topRight: 0.5
+        bottomLeft: 0.5
+        bottomRight: 0.5
+        lineWidth: 1
+        lineColor: {r: 1, g: 1, b: 1, a: 1}
+        outer: false
+        sizeInited: true
+        freeInited: false
+      - __class: AnimSeqComponent
+        name: ""
+        guid: {a: 8308607842850042732, b: 11586785980584064163}
+        enabled: true
+        animSeq: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1.seq}
+        texName: Albedo
+        frameName: _MainTex_ST
+        frameRotateName: _Atlas_Rotated
+        frameInnerName: _Atlas_InnerTex_ST
+        playmode:
+          __class: PlayMode
+          value: random
+        loopCount: -1
+        speed: 8
+        autoplay: true
+        animSeqMap:
+          __class: Map
+          Spark-1: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1.seq}
     layer: 1
 visible: true
 config:
@@ -3016,17 +3017,17 @@ depth: -7
 name: ""
 guid: {a: 5432953187944780385, b: 1813309995479216824}
 enabled: true
-localPosition: {x: -2.980232e-08, y: -2.235174e-08, z: 0}
+localPosition: {x: -1e-15, y: -1.341105e-07, z: 0}
 localScale: {x: -1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: -0}
 parent: {localId: 5}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -1.907349e-05, y: -1.430511e-05}
+position: {x: -3.552714e-14, y: -8.583069e-05}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 1308.721, y: 1280}
+size: {x: 1280, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: true
 flipY: false
@@ -3108,7 +3109,7 @@ parent: {localId: 13}
 children:
   - {localId: 17}
   - {localId: 39}
-  - {localId: 52}
+  - {localId: 57}
   - {localId: 40}
 mobility:
   __class: Mobility
@@ -3297,7 +3298,7 @@ name: ""
 guid: {a: 4269510923723594270, b: 6879827034042610595}
 enabled: true
 localPosition: {x: 0, y: -0.296875, z: 0}
-localScale: {x: 1, y: 1, z: 1}
+localScale: {x: 1.4, y: 1.4, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 13}
 mobility:
@@ -3305,7 +3306,7 @@ mobility:
   value: Dynamic
 position: {x: 0, y: -190}
 rotation: 0
-scale: {x: 1, y: 1}
+scale: {x: 1.4, y: 1.4}
 size: {x: 512, y: 512}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
@@ -3542,7 +3543,7 @@ position: {x: 0, y: 93}
 rotation: 0
 scale: {x: 0.2, y: 0.2}
 size: {x: 499, y: 318}
-pivot: {x: 0.54, y: 0.65}
+pivot: {x: 0.52, y: 0.65}
 flipX: false
 flipY: false
 depth: -43
@@ -3550,17 +3551,17 @@ depth: -43
 name: ""
 guid: {a: 2399375151553326873, b: 13933293377895926177}
 enabled: true
-localPosition: {x: 0.1285435, y: 0.07508375, z: 0}
+localPosition: {x: 0.1197203, y: 0.06689063, z: 0}
 localScale: {x: 1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 16}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: 82.26782, y: 48.0536}
+position: {x: 76.621, y: 42.81}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 164.5356, y: 164.5356}
+size: {x: 125, y: 125}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -3570,7 +3571,7 @@ name: ""
 guid: {a: 17095819058534661170, b: 2398313795493491340}
 enabled: true
 localPosition: {x: 0, y: 0.2594594, z: 0}
-localScale: {x: 1, y: 1, z: 1}
+localScale: {x: 0.6, y: 0.6, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 16}
 mobility:
@@ -3578,8 +3579,8 @@ mobility:
   value: Dynamic
 position: {x: 0, y: 166.054}
 rotation: 0
-scale: {x: 1, y: 1}
-size: {x: 300, y: 300}
+scale: {x: 0.6, y: 0.6}
+size: {x: 512, y: 512}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -3806,17 +3807,16 @@ depth: -28
 name: ""
 guid: {a: 16090527899806775260, b: 5879271802287399813}
 enabled: true
-localPosition: {x: -0.1285434, y: 0.07790733, z: 0}
+localPosition: {x: -0.04896237, y: -0.256664, z: 0}
 localScale: {x: -1, y: 1, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
-parent: {localId: 16}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -82.2678, y: 49.86069}
+position: {x: -31.33591, y: -164.265}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 164.5356, y: 164.5356}
+size: {x: 174.2408, y: 174.2408}
 pivot: {x: 0.5, y: 0.5}
 flipX: true
 flipY: false
@@ -3909,3 +3909,22 @@ pivot: {x: 0.5, y: 0.5}
 flipX: true
 flipY: false
 depth: -30
+--- !IFTransform2d &57
+name: ""
+guid: {a: 2759505192822802779, b: 707789078853194163}
+enabled: true
+localPosition: {x: -0.1224672, y: 0.06689063, z: 0}
+localScale: {x: -1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+parent: {localId: 16}
+mobility:
+  __class: Mobility
+  value: Dynamic
+position: {x: -78.379, y: 42.81}
+rotation: 0
+scale: {x: 1, y: 1}
+size: {x: 125, y: 125}
+pivot: {x: 0.5, y: 0.5}
+flipX: true
+flipY: false
+depth: -48

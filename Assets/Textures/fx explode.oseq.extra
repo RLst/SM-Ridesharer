@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "5167130e-9c33-47c8-2d2c-3a07fe32549a",
+      "a": "819c32ed-1b77-d74b-1c39-dbe560c4f564",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "flock bird",
-    "objGuid": "Guid(3766665029104686627, 5356413014027786655)",
+    "name": "fx explode",
+    "objGuid": "Guid(5787020055829074657, 17540322179478409621)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
-    "quality": 0,
+    "quality": 1,
     "maxResolution": 512
   }
 ]
