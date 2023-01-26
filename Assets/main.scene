@@ -149,7 +149,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 11
+        drawCallNum: 10
         maskType:
           __class: IFMaskType
           value: None
@@ -1323,8 +1323,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/17.png}
-        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--17.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/14.png}
+        imageAtlas: {localId: 1, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1947,8 +1947,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/6.png}
-        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--6.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/1.png}
+        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--1.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2613,8 +2613,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Multiply
-        texture: {localId: 1, path: Library/Artifact/ab5c6afe-d4eb-d037-d45e-8b2bdbf8bd5a/37.png}
-        imageAtlas: {localId: 3, path: ab5c6afe-d4eb-d037-d45e-8b2bdbf8bd5a--37.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/ab5c6afe-d4eb-d037-d45e-8b2bdbf8bd5a/34.png}
+        imageAtlas: {localId: 3, path: ab5c6afe-d4eb-d037-d45e-8b2bdbf8bd5a--34.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2785,8 +2785,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/5.png}
-        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--5.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1/1.png}
+        imageAtlas: {localId: 1, path: 982ab8d3-c3d1-4b8b-2b66-84c4e857c7f1--1.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
