@@ -885,6 +885,33 @@
   },
   {
     "guid": {
+      "a": "48a44ab5-0000-1446-df35-b44e152b3e0d",
+      "b": ""
+    },
+    "objGuid": "Guid(17095819058534661170, 2398313795493491340)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "4ce211d6-b1e7-b52e-178f-d09f04f35c7f",
       "b": ""
     },
@@ -2413,6 +2440,58 @@
     "editable": true,
     "sequence": "01dbf243-1882-8507-3359-b678490fe172",
     "targetProperty": "Albedo",
-    "playMode": 1
+    "playMode": 3
+  },
+  {
+    "guid": {
+      "a": "36331ad9-1c41-4153-83fd-241ef7d99263",
+      "b": ""
+    },
+    "objGuid": "Guid(15154451099807820024, 7226379551982678416)",
+    "extraType": "Entity",
+    "name": "Smoke",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "8c3c3ceb-086a-992b-7c11-54e0e3970ffb",
+      "b": ""
+    },
+    "objGuid": "Guid(6142933687495220860, 11942794678720043963)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-000000000021"
+  },
+  {
+    "guid": {
+      "a": "71e7cc26-57ba-4124-2d84-a2ff4eb9bfd2",
+      "b": ""
+    },
+    "objGuid": "Guid(11835616212306169567, 17609180437925488768)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "2518e029-a391-d4dd-7d3b-c8cec364a279",
+    "targetProperty": "Albedo",
+    "playMode": 0
   }
 ]
