@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "28c35948-5211-37b6-f116-22001dd0af41",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "crash",
+    "objGuid": "Guid(741099314617930756, 5278295095462473890)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

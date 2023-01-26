@@ -149,7 +149,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 9
+        drawCallNum: 11
         maskType:
           __class: IFMaskType
           value: None
@@ -469,7 +469,7 @@ entities:
     name: Horizon Point
     guid: {a: 7152969377559098053, b: 13821473495190498946}
     scene: {localId: 1}
-    selfvisible: false
+    selfvisible: true
     components:
       - {localId: 18}
       - __class: IFSprite2d
@@ -1323,8 +1323,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/18.png}
-        imageAtlas: {localId: 3, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--18.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/c20dbaf6-8a25-1dde-feed-82ba8505bb1f/2.png}
+        imageAtlas: {localId: 3, path: c20dbaf6-8a25-1dde-feed-82ba8505bb1f--2.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1947,8 +1947,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/01dbf243-1882-8507-3359-b678490fe172/21.png}
-        imageAtlas: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/01dbf243-1882-8507-3359-b678490fe172/18.png}
+        imageAtlas: {localId: 1, path: 01dbf243-1882-8507-3359-b678490fe172--18.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
